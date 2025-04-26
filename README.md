@@ -10,8 +10,8 @@ $ tony
 ```
 
 ## Gallery
-![checker]("./tony_checker.png")
+![checker](./tony_checker.png)
 
-![circle]("./tony_japan.png")
+![circle](./tony_japan.png)
 
-![lines]("./tony_lines.png")
+![lines](./tony_lines.png)
